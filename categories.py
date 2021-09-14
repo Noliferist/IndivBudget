@@ -1,0 +1,1 @@
+categories = ["1. Food", "2. Groceries", "3. Utilities", "4. Others"]
