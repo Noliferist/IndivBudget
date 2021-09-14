@@ -13,5 +13,3 @@ def createUser():
     writer = csv.writer(file)
     writer.writerow(header)
     file.close()
-
-createUser()
